@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Card from './Card';
+// import Card from './Card';
 import Cardlist from './Cardlist';
 import  { robots }  from './robots';
 import * as serviceWorker from './serviceWorker';
